@@ -1,0 +1,64 @@
+.product__card__link{
+    width: 100%;
+    height: 30px;
+    background-color: rgba(0,0,255,0.4);
+    text-align: center;
+}
+
+.col-sm {
+    height: 250px;
+}
+
+.product__card--4 {
+    background: royalblue;
+}
+
+.product__card--2 {
+    background: seagreen;
+}
+
+.product__card--1 {
+    background: tomato;
+}
+
+.card-4-1 {
+    background-image: url("./assets/planta.jpg");
+    background-position: center;
+    background-size: cover;    
+}
+
+.card-4-2 {
+    background-image: url("./assets/tanque.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.card-4-3 {
+    background-image: url("./assets/tanque_horizontal.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.card-4-4 {
+    background-image: url("./assets/brindis.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.card-2-1 {
+    background-image: url("./assets/planta.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.card-2-2 {
+    background-image: url("./assets/cañerias.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.card-1 {
+    background-image: url("./assets/maquinaria.jpg");
+    background-position: center;
+    background-size: cover;
+}
