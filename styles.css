@@ -24,9 +24,11 @@
     max-height: 180px;
     transition: max-height 0.25s ease-in;
 }
-a{
+
+a {
     text-decoration: none;
 }
+
 p {
     font-size: 14px;
 }
