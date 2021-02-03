@@ -1,4 +1,17 @@
-.product__card__link{
+.product {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.product_header__title {
+    background-color: #EFEFEF;
+    height: 450px;
+}
+
+.product__cards {
+    margin-top: -130px !important;
+}
+
+.product__card__link {
     width: 100%;
     max-height: 30px;
     background-color: rgba(37,83,135,.8);
@@ -7,7 +20,7 @@
     overflow: hidden;
 }
 
-.product__card__link:hover{
+.product__card__link:hover {
     max-height: 180px;
     transition: max-height 0.25s ease-in;
 }
@@ -22,43 +35,43 @@ p {
 }
 
 .card-4-1 {
-    background-image: url("./assets/planta.jpg");
+    background-image: url("./assets/Night_Industrial.jpg");
     background-position: center;
     background-size: cover;    
 }
 
 .card-4-2 {
-    background-image: url("./assets/tanque.jpg");
+    background-image: url("./assets/FieldService.jpg");
     background-position: center;
     background-size: cover;
 }
 
 .card-4-3 {
-    background-image: url("./assets/tanque_horizontal.jpg");
+    background-image: url("./assets/Cryo-LeaseTrailer.jpg");
     background-position: center;
     background-size: cover;
 }
 
 .card-4-4 {
-    background-image: url("./assets/brindis.jpg");
+    background-image: url("./assets/dreamstime_water.jpg");
     background-position: center;
     background-size: cover;
 }
 
 .card-2-1 {
-    background-image: url("./assets/planta.jpg");
+    background-image: url("./assets/ChartProductsCollage.jpg");
     background-position: center;
     background-size: cover;
 }
 
 .card-2-2 {
-    background-image: url("./assets/cañerias.jpg");
+    background-image: url("./assets/IMB_Breech_Lock.jpg");
     background-position: center;
     background-size: cover;
 }
 
 .card-1 {
-    background-image: url("./assets/maquinaria.jpg");
+    background-image: url("./assets/ChartParts.jpg");
     background-position: center;
     background-size: cover;
 }
